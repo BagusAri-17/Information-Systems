@@ -1,0 +1,42 @@
+[
+    {
+        "value": "",
+        "label": "All"
+    },
+    {
+        "value": "Text Mining",
+        "label": "Text Mining"
+    },
+    {
+        "value": "Knowledge Discovery and Management",
+        "label": "Knowledge Discovery and Management"
+    },
+    {
+        "value": "Music Information Retrieval",
+        "label": "Music Information Retrieval"
+    },
+    {
+        "value": "Multimedia System",
+        "label": "Multimedia System"
+    },
+    {
+        "value": "Digital Security",
+        "label": "Digital Security"
+    },
+    {
+        "value": "Wireless Sensor Network",
+        "label": "Wireless Sensor Network"
+    },
+    {
+        "value": "Smart Computing",
+        "label": "Smart Computing"
+    },
+    {
+        "value": "Big Data Processing and Bussiness Management",
+        "label": "Big Data Processing and Bussiness Management"
+    },
+    {
+        "value": "User Interaction and Experience",
+        "label": "User Interaction and Experience"
+    }
+]
